@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cat_and_Rat", "Cat_and_Rat.pyproj", "{9DBA39E9-A519-4BB7-A2C4-D9C6DEDA1421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBA39E9-A519-4BB7-A2C4-D9C6DEDA1421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBA39E9-A519-4BB7-A2C4-D9C6DEDA1421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5004EA8-C394-4DAA-A785-8CE30097E8C0}
+	EndGlobalSection
+EndGlobal
